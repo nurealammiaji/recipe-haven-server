@@ -23,6 +23,12 @@ app.get("/recipes/cuisines/:cuisine", (req, res) => {
     res.send(specificCuisine);
 })
 
+app.get("/recipes/chefs/:chef", (req, res) => {
+    const chef = req.params.chef;
+    const specificChef = recipes.filter(recipe => recipe.chef === chef);
+    res.send(specificChef);
+})
+
 app.listen(port, () => {
     console.log(`Recipe Haven Server is running on ${port}`);
 })
