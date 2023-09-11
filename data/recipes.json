@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "chef": "Mario Rossi",
+        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "image": "https://images.unsplash.com/photo-1588338529744-4d5b9b55579b",
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta or guanciale, diced",
+            "2 large eggs",
+            "50g Pecorino Romano cheese, grated",
+            "Salt and black pepper to taste",
+            "2 cloves garlic, minced",
+            "Fresh parsley, chopped (for garnish)"
+        ],
+        "instructions": [
+            "Boil the spaghetti in a large pot of salted water until al dente. Drain and set aside.",
+            "In a skillet, cook the diced pancetta or guanciale over medium heat until it's crispy. Remove it from the heat and set it aside, but leave the rendered fat in the skillet.",
+            "In a bowl, whisk together the eggs and grated Pecorino Romano cheese. Season with a pinch of black pepper.",
+            "In the same skillet with the pancetta fat, add the minced garlic and cook for about 1 minute until fragrant. Remove from heat.",
+            "Add the cooked spaghetti to the skillet with the garlic and pancetta fat. Toss to coat the pasta in the fat.",
+            "Quickly pour the egg and cheese mixture over the pasta and toss vigorously to create a creamy sauce. The heat from the pasta will cook the eggs, but be careful not to scramble them.",
+            "Add the crispy pancetta or guanciale back to the skillet and toss to combine. Season with salt and more black pepper to taste.",
+            "Garnish with chopped fresh parsley and serve immediately."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "cuisine": "Italian",
+        "chef": "Mario Rossi",
+        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "description": "A simple and delicious pizza topped with tomatoes, fresh mozzarella, basil, and olive oil.",
+        "image": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302",
+        "ingredients": [
+            "Pizza dough",
+            "1 cup tomato sauce",
+            "Fresh mozzarella cheese",
+            "Fresh basil leaves",
+            "Olive oil",
+            "Salt and black pepper to taste"
+        ],
+        "instructions": [
+            "Preheat your oven to the highest temperature it can go.",
+            "Roll out the pizza dough into a circle.",
+            "Spread the tomato sauce evenly over the dough.",
+            "Tear the fresh mozzarella into pieces and place them on the sauce.",
+            "Scatter fresh basil leaves over the pizza.",
+            "Drizzle olive oil over the top and season with salt and black pepper.",
+            "Bake the pizza in the preheated oven until the crust is golden and the cheese is bubbly and slightly browned.",
+            "Slice and serve hot."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chicken Alfredo",
+        "cuisine": "Italian",
+        "chef": "Mario Rossi",
+        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "description": "Creamy fettuccine pasta with tender chicken and a rich Alfredo sauce.",
+        "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a",
+        "ingredients": [
+            "300g fettuccine pasta",
+            "2 boneless, skinless chicken breasts, sliced",
+            "1 cup heavy cream",
+            "1/2 cup butter",
+            "1 cup grated Parmesan cheese",
+            "Salt and black pepper to taste",
+            "Fresh parsley, chopped (for garnish)"
+        ],
+        "instructions": [
+            "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
+            "Season the chicken slices with salt and black pepper.",
+            "In a large skillet, melt the butter over medium heat. Add the chicken and cook until it's no longer pink in the center.",
+            "Pour in the heavy cream and grated Parmesan cheese. Stir until the sauce thickens.",
+            "Add the cooked fettuccine to the skillet and toss to coat in the creamy Alfredo sauce.",
+            "Garnish with chopped fresh parsley and serve hot."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Caprese Salad",
+        "cuisine": "Italian",
+        "chef": "Mario Rossi",
+        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "description": "A refreshing salad with tomatoes, mozzarella, basil, and balsamic glaze.",
+        "image": "https://images.unsplash.com/photo-1622637012640-83ff490e189f",
+        "ingredients": [
+            "Tomatoes, sliced",
+            "Fresh mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "Balsamic glaze",
+            "Extra-virgin olive oil",
+            "Salt and black pepper to taste"
+        ],
+        "instructions": [
+            "Arrange the tomato and mozzarella slices on a serving platter, alternating them.",
+            "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+            "Drizzle with balsamic glaze and extra-virgin olive oil.",
+            "Season with salt and black pepper.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Risotto alla Milanese",
+        "cuisine": "Italian",
+        "chef": "Mario Rossi",
+        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "description": "Creamy saffron-infused risotto with a hint of white wine.",
+        "image": "https://images.unsplash.com/photo-1461009683693-342af2f2d6ce",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "4 cups chicken or vegetable broth",
+            "1/2 teaspoon saffron threads",
+            "1/4 cup grated Parmesan cheese",
+            "2 tablespoons butter",
+            "Salt and black pepper to taste"
+        ],
+        "instructions": [
+            "In a small bowl, steep the saffron threads in a few tablespoons of warm water.",
+            "In a large skillet, toast the Arborio rice over medium heat until translucent around the edges.",
+            "Pour in the white wine and cook until it's mostly absorbed by the rice.",
+            "Add a ladleful of chicken or vegetable broth and stir until absorbed. Continue adding broth, one ladle at a time, and stirring until the rice is creamy and cooked to your liking.",
+            "Stir in the saffron-infused water, grated Parmesan cheese, and butter.",
+            "Season with salt and black pepper.",
+            "Serve hot."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Vegetarian Chili",
+        "cuisine": "Mexican",
+        "chef": "Maria Hernandez",
+        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "description": "A hearty and flavorful chili made with a variety of vegetables and beans.",
+        "image": "https://plus.unsplash.com/premium_photo-1661759416343-9ee5dcbda8e6",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "2 carrots, diced",
+            "1 zucchini, diced",
+            "1 can (15 oz) black beans, drained and rinsed",
+            "1 can (15 oz) kidney beans, drained and rinsed",
+            "1 can (15 oz) diced tomatoes",
+            "1 can (6 oz) tomato paste",
+            "2 cups vegetable broth",
+            "2 tablespoons chili powder",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "Salt and black pepper to taste",
+            "Chopped fresh cilantro and shredded cheddar cheese (for garnish)"
+        ],
+        "instructions": [
+            "In a large pot, heat the olive oil over medium heat. Add the chopped onion, garlic, and a pinch of salt. Cook until the onion is translucent, about 5 minutes.",
+            "Add the chopped red and green bell peppers, carrots, and zucchini to the pot. Cook for another 5 minutes, stirring occasionally.",
+            "Stir in the chili powder, cumin, paprika, and black pepper. Cook for 1-2 minutes until fragrant.",
+            "Add the diced tomatoes, tomato paste, black beans, kidney beans, and vegetable broth to the pot. Stir well to combine.",
+            "Bring the chili to a boil, then reduce the heat to low, cover, and simmer for about 20-25 minutes, or until the vegetables are tender and the flavors have melded together.",
+            "Taste and adjust the seasoning with salt and more chili powder if desired.",
+            "Serve the vegetarian chili hot, garnished with chopped fresh cilantro and shredded cheddar cheese."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Taco Salad",
+        "cuisine": "Mexican",
+        "chef": "Maria Hernandez",
+        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "description": "A delicious salad with seasoned ground beef, lettuce, tomatoes, cheese, and tortilla chips.",
+        "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b",
+        "ingredients": [
+            "1 lb ground beef",
+            "1 packet taco seasoning",
+            "Lettuce, shredded",
+            "Tomatoes, diced",
+            "Shredded cheddar cheese",
+            "Tortilla chips",
+            "Sour cream",
+            "Salsa",
+            "Guacamole"
+        ],
+        "instructions": [
+            "In a skillet, cook the ground beef over medium heat until browned. Drain any excess fat.",
+            "Add the taco seasoning and follow the package instructions to prepare the meat mixture.",
+            "In a large bowl, layer shredded lettuce, diced tomatoes, shredded cheddar cheese, and crumbled tortilla chips.",
+            "Top with the seasoned ground beef mixture.",
+            "Serve with sour cream, salsa, and guacamole on the side."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Guacamole",
+        "cuisine": "Mexican",
+        "chef": "Maria Hernandez",
+        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "description": "A creamy and flavorful avocado dip with tomatoes, onions, and lime juice.",
+        "image": "https://images.unsplash.com/photo-1595016111459-799a195e7452",
+        "ingredients": [
+            "2 ripe avocados, peeled and mashed",
+            "1 tomato, diced",
+            "1/2 onion, finely chopped",
+            "1/4 cup fresh cilantro, chopped",
+            "1 lime, juiced",
+            "Salt and black pepper to taste",
+            "Tortilla chips (for serving)"
+        ],
+        "instructions": [
+            "In a bowl, combine the mashed avocados, diced tomato, finely chopped onion, and chopped fresh cilantro.",
+            "Add the lime juice and stir to combine.",
+            "Season with salt and black pepper to taste.",
+            "Serve the guacamole with tortilla chips."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Salsa Verde",
+        "cuisine": "Mexican",
+        "chef": "Maria Hernandez",
+        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "description": "A tangy and spicy green salsa made with tomatillos and green chili peppers.",
+        "image": "https://images.unsplash.com/photo-1613514967307-d5b3471b2453",
+        "ingredients": [
+            "1 lb tomatillos, husked and rinsed",
+            "2-3 green chili peppers (e.g., jalapeños or serranos)",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "Fresh cilantro leaves",
+            "1 lime, juiced",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "In a blender or food processor, combine the tomatillos, green chili peppers, chopped onion, and minced garlic.",
+            "Blend until smooth.",
+            "Add fresh cilantro leaves and lime juice to taste, and blend again until well combined.",
+            "Season with salt to taste.",
+            "Serve the salsa verde with tortilla chips or as a condiment for tacos and enchiladas."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Chicken Enchiladas",
+        "cuisine": "Mexican",
+        "chef": "Maria Hernandez",
+        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "description": "Rolled tortillas filled with shredded chicken and smothered in enchilada sauce and cheese.",
+        "image": "https://images.unsplash.com/photo-1570461226513-e08b58a52c53",
+        "ingredients": [
+            "2 cups cooked and shredded chicken",
+            "1 can (10 oz) red enchilada sauce",
+            "8 small flour tortillas",
+            "2 cups shredded cheddar cheese",
+            "Sliced black olives (for garnish)",
+            "Chopped fresh cilantro (for garnish)"
+        ],
+        "instructions": [
+            "Preheat your oven to 350°F (175°C).",
+            "Spread a small amount of enchilada sauce on the bottom of a baking dish.",
+            "Place a portion of shredded chicken and shredded cheddar cheese in each tortilla. Roll them up and place them seam side down in the baking dish.",
+            "Pour the remaining enchilada sauce over the rolled tortillas, and sprinkle with additional shredded cheese.",
+            "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+            "Garnish with sliced black olives and chopped fresh cilantro before serving."
+        ]
+    }
+]
