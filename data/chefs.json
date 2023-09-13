@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Mario Rossi",
-        "image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "image": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=0&k=20&c=XDfN4eo_AWH_LM7KLNL8jHCQY9wjkVwRBFMNo-z_4C8=",
         "bio": "Chef Mario Rossi is an Italian cuisine maestro, known for his mastery of pasta and classic Italian dishes.",
         "experience": 5,
         "cuisine": "Italian",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "Maria Hernandez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "image": "https://media.istockphoto.com/id/486860378/photo/my-chefs-know-how-to-cook.jpg?s=612x612&w=0&k=20&c=F7e0Nr5Xr56VJS1NFffBFu_zkcW2ifsw6EHxvKPGh38=",
         "bio": "Chef Maria Hernandez brings the flavors of Italy to life in every dish, with a focus on traditional Italian recipes passed down through generations.",
         "experience": 6,
         "cuisine": "Italian",
@@ -47,7 +47,7 @@
         "experience": 2,
         "cuisine": "Italian",
         "likes": 2300,
-        "recipes": 90
+        "recipes": 50
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "experience": 8,
         "cuisine": "Italian",
         "likes": 7000,
-        "recipes": 90
+        "recipes": 100
     }
 ]
