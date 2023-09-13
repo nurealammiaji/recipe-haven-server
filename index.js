@@ -1,5 +1,6 @@
 const express = require("express");
 const recipes = require("./data/recipes.json");
+const chefs = require("./data/chefs.json");
 const app = express();
 const port = 5000;
 
@@ -17,15 +18,19 @@ app.get("/recipes/:id", (req, res) => {
     res.send(specificRecipe);
 })
 
-app.get("/recipes/cuisines/:cuisine", (req, res) => {
-    const cuisine = req.params.cuisine;
-    const specificCuisine = recipes.filter(recipe => recipe.cuisine === cuisine);
-    res.send(specificCuisine);
-})
-
 app.get("/recipes/chefs/:chef", (req, res) => {
     const chef = req.params.chef;
     const specificChef = recipes.filter(recipe => recipe.chef === chef);
+    res.send(specificChef);
+})
+
+app.get("/chefs", (req, res) => {
+    res.send(chefs);
+})
+
+app.get("/chefs/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const specificChef = chefs.find(chef => parseInt(chef.id) === id);
     res.send(specificChef);
 })
 

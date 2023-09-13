@@ -84,8 +84,8 @@
         "id": 4,
         "name": "Caprese Salad",
         "cuisine": "Italian",
-        "chef": "Mario Rossi",
-        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "chef": "Marco Alessandro",
+        "chef_image": "https://st3.depositphotos.com/1003697/19512/i/450/depositphotos_195122672-stock-photo-portrait-young-chef-standing-commercial.jpg",
         "description": "A refreshing salad with tomatoes, mozzarella, basil, and balsamic glaze.",
         "image": "https://images.unsplash.com/photo-1622637012640-83ff490e189f",
         "ingredients": [
@@ -108,8 +108,8 @@
         "id": 5,
         "name": "Risotto alla Milanese",
         "cuisine": "Italian",
-        "chef": "Mario Rossi",
-        "chef_image": "http://www.ilfienilerestaurant.it/sites/default/files/team/chef.jpg",
+        "chef": "Marco Alessandro",
+        "chef_image": "https://st3.depositphotos.com/1003697/19512/i/450/depositphotos_195122672-stock-photo-portrait-young-chef-standing-commercial.jpg",
         "description": "Creamy saffron-infused risotto with a hint of white wine.",
         "image": "https://images.unsplash.com/photo-1461009683693-342af2f2d6ce",
         "ingredients": [
@@ -134,9 +134,9 @@
     {
         "id": 6,
         "name": "Vegetarian Chili",
-        "cuisine": "Mexican",
-        "chef": "Maria Hernandez",
-        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "cuisine": "Italian",
+        "chef": "Marco Alessandro",
+        "chef_image": "https://st3.depositphotos.com/1003697/19512/i/450/depositphotos_195122672-stock-photo-portrait-young-chef-standing-commercial.jpg",
         "description": "A hearty and flavorful chili made with a variety of vegetables and beans.",
         "image": "https://plus.unsplash.com/premium_photo-1661759416343-9ee5dcbda8e6",
         "ingredients": [
@@ -171,7 +171,7 @@
     {
         "id": 7,
         "name": "Taco Salad",
-        "cuisine": "Mexican",
+        "cuisine": "Italian",
         "chef": "Maria Hernandez",
         "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
         "description": "A delicious salad with seasoned ground beef, lettuce, tomatoes, cheese, and tortilla chips.",
@@ -198,7 +198,7 @@
     {
         "id": 8,
         "name": "Guacamole",
-        "cuisine": "Mexican",
+        "cuisine": "Italian",
         "chef": "Maria Hernandez",
         "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
         "description": "A creamy and flavorful avocado dip with tomatoes, onions, and lime juice.",
@@ -222,7 +222,7 @@
     {
         "id": 9,
         "name": "Salsa Verde",
-        "cuisine": "Mexican",
+        "cuisine": "Italian",
         "chef": "Maria Hernandez",
         "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
         "description": "A tangy and spicy green salsa made with tomatillos and green chili peppers.",
@@ -247,9 +247,9 @@
     {
         "id": 10,
         "name": "Chicken Enchiladas",
-        "cuisine": "Mexican",
-        "chef": "Maria Hernandez",
-        "chef_image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anna_kitchen_headshot.jpg",
+        "cuisine": "Italian",
+        "chef": "Anna Giulia",
+        "chef_image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
         "description": "Rolled tortillas filled with shredded chicken and smothered in enchilada sauce and cheese.",
         "image": "https://images.unsplash.com/photo-1570461226513-e08b58a52c53",
         "ingredients": [
@@ -267,6 +267,340 @@
             "Pour the remaining enchilada sauce over the rolled tortillas, and sprinkle with additional shredded cheese.",
             "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
             "Garnish with sliced black olives and chopped fresh cilantro before serving."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Lasagna",
+        "cuisine": "Italian",
+        "chef": "Anna Giulia",
+        "chef_image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+        "description": "Layers of pasta, rich meat sauce, creamy béchamel, and melted cheese make this classic Italian dish a favorite.",
+        "image": "https://plus.unsplash.com/premium_photo-1668618296300-e301f8d2cef9",
+        "ingredients": [
+            "12 lasagna noodles",
+            "1 lb (450g) ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can (28 oz) crushed tomatoes",
+            "2 cups ricotta cheese",
+            "2 cups shredded mozzarella cheese",
+            "1/2 cup grated Parmesan cheese",
+            "2 eggs",
+            "1/4 cup chopped fresh parsley",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Preheat your oven to 375°F (190°C).",
+            "Cook the lasagna noodles according to package instructions until al dente. Drain and set aside.",
+            "In a large skillet, cook the ground beef, chopped onion, and minced garlic over medium-high heat until the beef is browned and the onion is translucent. Drain excess fat.",
+            "Stir in the crushed tomatoes and simmer for about 10 minutes. Season with salt and pepper.",
+            "In a bowl, combine the ricotta cheese, 1 1/2 cups of mozzarella cheese, grated Parmesan cheese, eggs, and chopped parsley. Season with salt and pepper.",
+            "Spread a small amount of the meat sauce in the bottom of a 9x13-inch baking dish.",
+            "Layer with 4 lasagna noodles, half of the cheese mixture, half of the meat sauce, and repeat.",
+            "Top the lasagna with the remaining 1/2 cup of mozzarella cheese.",
+            "Cover with aluminum foil and bake for 25 minutes. Then, remove the foil and bake for an additional 25 minutes until bubbly and golden.",
+            "Let it rest for a few minutes before serving your delicious homemade lasagna."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Tiramisu",
+        "cuisine": "Italian",
+        "chef": "Anna Giulia",
+        "chef_image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+        "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.",
+        "image": "https://images.unsplash.com/photo-1673001197231-1175e06f21ea",
+        "ingredients": [
+            "1 cup brewed espresso coffee, cooled",
+            "3/4 cup granulated sugar",
+            "3 large egg yolks",
+            "8 oz (225g) mascarpone cheese",
+            "1 cup heavy cream",
+            "1 teaspoon vanilla extract",
+            "24 to 30 ladyfinger cookies",
+            "Cocoa powder for dusting",
+            "Dark chocolate shavings (optional)"
+        ],
+        "instructions": [
+            "In a bowl, combine the cooled espresso coffee and 1/4 cup of granulated sugar. Stir until the sugar is dissolved.",
+            "In another bowl, whisk the egg yolks with the remaining 1/2 cup of sugar until the mixture becomes pale and creamy.",
+            "Add the mascarpone cheese and vanilla extract to the egg yolk mixture. Mix until smooth and well combined.",
+            "In a separate bowl, whip the heavy cream until stiff peaks form.",
+            "Gently fold the whipped cream into the mascarpone mixture until fully incorporated.",
+            "Dip each ladyfinger cookie into the coffee mixture briefly and arrange a layer of dipped cookies in the bottom of a serving dish.",
+            "Spread half of the mascarpone mixture over the ladyfingers.",
+            "Repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture.",
+            "Cover and refrigerate for at least 4 hours or overnight to set.",
+            "Before serving, dust the tiramisu with cocoa powder and garnish with dark chocolate shavings if desired."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Ravioli with Tomato and Basil Sauce",
+        "cuisine": "Italian",
+        "chef": "Anna Giulia",
+        "chef_image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+        "description": "Freshly made ravioli pasta served with a simple tomato and basil sauce.",
+        "image": "https://images.unsplash.com/photo-1530632789071-8543f47edb34",
+        "ingredients": [
+            "1 lb (450g) fresh or store-bought ravioli",
+            "2 cups canned crushed tomatoes",
+            "2 cloves garlic, minced",
+            "Handful of fresh basil leaves, torn",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper to taste",
+            "Extra-virgin olive oil"
+        ],
+        "instructions": [
+            "Cook the ravioli according to package instructions until al dente. Drain and set aside.",
+            "In a saucepan, heat a drizzle of extra-virgin olive oil over medium heat. Add minced garlic and sauté for 1-2 minutes until fragrant.",
+            "Add the crushed tomatoes and torn basil leaves to the saucepan. Season with salt and pepper. Simmer for 10-15 minutes until the sauce thickens slightly.",
+            "Toss the cooked ravioli in the tomato and basil sauce until well coated.",
+            "Serve the ravioli with a sprinkle of grated Parmesan cheese on top."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Chicken Parmesan",
+        "cuisine": "Italian",
+        "chef": "Giuseppe Martino",
+        "chef_image": "https://st4.depositphotos.com/15601592/31237/i/450/depositphotos_312371902-stock-photo-waist-portrait-handsome-chef-smiling.jpg",
+        "description": "Breaded chicken cutlets topped with tomato sauce and melted mozzarella cheese, served with spaghetti.",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 large eggs, beaten",
+            "2 cups breadcrumbs",
+            "1 cup grated Parmesan cheese",
+            "1 cup marinara sauce",
+            "2 cups shredded mozzarella cheese",
+            "Salt and pepper to taste",
+            "Cooked spaghetti for serving",
+            "Fresh basil leaves for garnish"
+        ],
+        "instructions": [
+            "Preheat your oven to 375°F (190°C).",
+            "Season the chicken breasts with salt and pepper.",
+            "Dredge each chicken breast in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese.",
+            "In a large skillet, heat olive oil over medium-high heat. Add chicken breasts and cook until golden brown and cooked through, about 4-5 minutes per side.",
+            "In an ovenproof dish, spread a layer of marinara sauce. Place the cooked chicken breasts on top and cover with more marinara sauce.",
+            "Sprinkle shredded mozzarella cheese over the chicken.",
+            "Bake in the preheated oven for 20-25 minutes or until the cheese is melted and bubbly.",
+            "Serve chicken Parmesan over cooked spaghetti and garnish with fresh basil leaves."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Minestrone Soup",
+        "cuisine": "Italian",
+        "chef": "Giuseppe Martino",
+        "chef_image": "https://st4.depositphotos.com/15601592/31237/i/450/depositphotos_312371902-stock-photo-waist-portrait-handsome-chef-smiling.jpg",
+        "description": "A hearty and nutritious vegetable soup with pasta and beans, perfect for a comforting meal.",
+        "image": "https://images.unsplash.com/photo-1530734575165-ce39d996fbaa",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "2 cloves garlic, minced",
+            "1 can (15 oz) diced tomatoes",
+            "4 cups vegetable broth",
+            "1 can (15 oz) cannellini beans, drained and rinsed",
+            "1 cup small pasta (such as ditalini)",
+            "1 zucchini, diced",
+            "1 cup chopped spinach or kale",
+            "1 teaspoon dried Italian seasoning",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese for garnish"
+        ],
+        "instructions": [
+            "In a large pot, heat olive oil over medium heat. Add chopped onion, carrots, and celery. Sauté until the vegetables start to soften, about 5 minutes.",
+            "Add minced garlic and sauté for another 1-2 minutes until fragrant.",
+            "Stir in diced tomatoes, vegetable broth, cannellini beans, and dried Italian seasoning. Season with salt and pepper.",
+            "Bring the soup to a boil, then reduce the heat to low and simmer for 20-25 minutes, until the vegetables are tender.",
+            "Add small pasta and diced zucchini to the soup. Simmer for an additional 10 minutes or until the pasta is cooked.",
+            "Stir in chopped spinach or kale and cook until wilted.",
+            "Serve minestrone soup hot, garnished with grated Parmesan cheese."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Panna Cotta with Berry Sauce",
+        "cuisine": "Italian",
+        "chef": "Giuseppe Martino",
+        "chef_image": "https://st4.depositphotos.com/15601592/31237/i/450/depositphotos_312371902-stock-photo-waist-portrait-handsome-chef-smiling.jpg",
+        "description": "A silky and creamy Italian dessert topped with a sweet berry sauce.",
+        "image": "https://images.unsplash.com/photo-1603236268617-d023914d9416",
+        "ingredients": [
+            "2 cups heavy cream",
+            "1/2 cup whole milk",
+            "1/2 cup granulated sugar",
+            "1 teaspoon vanilla extract",
+            "2 teaspoons unflavored gelatin",
+            "2 tablespoons cold water",
+            "Mixed berries (strawberries, blueberries, raspberries) for sauce",
+            "2 tablespoons powdered sugar for sauce"
+        ],
+        "instructions": [
+            "In a saucepan, combine heavy cream, whole milk, granulated sugar, and vanilla extract. Heat over medium heat until it almost comes to a simmer, stirring occasionally. Remove from heat.",
+            "In a small bowl, sprinkle gelatin over cold water and let it sit for a few minutes to soften.",
+            "Add the softened gelatin mixture to the warm cream mixture and stir until completely dissolved.",
+            "Pour the mixture into serving glasses or ramekins. Chill in the refrigerator for at least 4 hours or until set.",
+            "In a blender, combine mixed berries and powdered sugar. Blend until smooth to make the berry sauce.",
+            "Before serving, spoon the berry sauce over the chilled panna cotta.",
+            "Enjoy your creamy panna cotta with berry sauce!"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Eggplant Parmesan",
+        "cuisine": "Italian",
+        "chef": "Giuseppe Martino",
+        "chef_image": "https://st4.depositphotos.com/15601592/31237/i/450/depositphotos_312371902-stock-photo-waist-portrait-handsome-chef-smiling.jpg",
+        "description": "Slices of breaded and fried eggplant topped with marinara sauce and melted cheese.",
+        "image": "https://images.unsplash.com/photo-1613478881426-deeadee06d78",
+        "ingredients": [
+            "2 large eggplants, sliced into rounds",
+            "1 cup all-purpose flour",
+            "2 large eggs, beaten",
+            "2 cups breadcrumbs",
+            "1 cup grated Parmesan cheese",
+            "2 cups marinara sauce",
+            "2 cups shredded mozzarella cheese",
+            "Salt and pepper to taste",
+            "Fresh basil leaves for garnish"
+        ],
+        "instructions": [
+            "Preheat your oven to 375°F (190°C).",
+            "Season eggplant slices with salt and pepper.",
+            "Dredge each eggplant slice in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese.",
+            "In a large skillet, heat olive oil over medium-high heat. Fry the breaded eggplant slices until golden brown and crispy, about 2-3 minutes per side. Drain on paper towels.",
+            "In a baking dish, spread a layer of marinara sauce. Arrange a layer of fried eggplant slices on top.",
+            "Cover with more marinara sauce and shredded mozzarella cheese.",
+            "Repeat the layers until all the eggplant slices are used, finishing with marinara sauce and mozzarella cheese on top.",
+            "Bake in the preheated oven for 25-30 minutes or until the cheese is melted and bubbly.",
+            "Garnish with fresh basil leaves before serving your delicious eggplant Parmesan."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gnocchi with Pesto Sauce",
+        "cuisine": "Italian",
+        "chef": "Antonio Bianchi",
+        "chef_image": "https://st2.depositphotos.com/1518767/10328/i/450/depositphotos_103283818-stock-photo-happy-head-chef-presenting-his.jpg",
+        "description": "Soft potato dumplings served with a flavorful homemade pesto sauce.",
+        "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327",
+        "ingredients": [
+            "1 lb (450g) gnocchi (store-bought or homemade)",
+            "2 cups fresh basil leaves",
+            "1/2 cup grated Parmesan cheese",
+            "1/4 cup pine nuts",
+            "2 cloves garlic",
+            "1/2 cup extra-virgin olive oil",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese for garnish"
+        ],
+        "instructions": [
+            "Cook the gnocchi according to package instructions until they float to the surface. Drain and set aside.",
+            "In a food processor, combine fresh basil leaves, grated Parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.",
+            "With the food processor running, slowly drizzle in the extra-virgin olive oil until the pesto sauce is smooth. Season with salt and pepper.",
+            "Toss the cooked gnocchi in the homemade pesto sauce until well coated.",
+            "Serve gnocchi with a sprinkle of grated Parmesan cheese on top."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Osso Buco",
+        "cuisine": "Italian",
+        "chef": "Antonio Bianchi",
+        "chef_image": "https://st2.depositphotos.com/1518767/10328/i/450/depositphotos_103283818-stock-photo-happy-head-chef-presenting-his.jpg",
+        "description": "Tender braised veal shanks served with gremolata and creamy risotto.",
+        "image": "https://plus.unsplash.com/premium_photo-1663852297267-827c73e7529e",
+        "ingredients": [
+            "4 veal shanks (about 2 inches thick)",
+            "1/2 cup all-purpose flour",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 carrots, chopped",
+            "2 celery stalks, chopped",
+            "4 cloves garlic, minced",
+            "1 can (28 oz) diced tomatoes",
+            "1 cup dry white wine",
+            "2 cups chicken broth",
+            "1 bay leaf",
+            "Salt and pepper to taste",
+            "Gremolata (zest of 1 lemon, 2 cloves garlic, and 2 tablespoons chopped fresh parsley)",
+            "Creamy risotto for serving"
+        ],
+        "instructions": [
+            "Season veal shanks with salt and pepper, then dredge in flour to coat.",
+            "In a large skillet, heat olive oil over medium-high heat. Brown the veal shanks on both sides. Remove and set aside.",
+            "In the same skillet, add chopped onion, carrots, celery, and minced garlic. Sauté until the vegetables start to soften, about 5 minutes.",
+            "Stir in diced tomatoes and dry white wine. Simmer for a few minutes to cook off the alcohol.",
+            "Return the veal shanks to the skillet and add chicken broth and bay leaf. Cover and simmer for 2-2.5 hours or until the veal is tender and easily falls off the bone.",
+            "Prepare the gremolata by mixing lemon zest, minced garlic, and chopped fresh parsley.",
+            "Serve osso buco hot, garnished with gremolata, and accompanied by creamy risotto."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Chicken Marsala",
+        "cuisine": "Italian",
+        "chef": "Antonio Bianchi",
+        "chef_image": "https://st2.depositphotos.com/1518767/10328/i/450/depositphotos_103283818-stock-photo-happy-head-chef-presenting-his.jpg",
+        "description": "Tender chicken breasts cooked in a rich Marsala wine sauce with mushrooms.",
+        "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/2 cup all-purpose flour",
+            "2 tablespoons olive oil",
+            "8 oz (225g) mushrooms, sliced",
+            "1/2 cup Marsala wine",
+            "1/2 cup chicken broth",
+            "2 tablespoons unsalted butter",
+            "2 tablespoons chopped fresh parsley",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper, then dredge in flour to coat.",
+            "In a large skillet, heat olive oil over medium-high heat. Add chicken breasts and cook until golden brown and cooked through, about 4-5 minutes per side. Remove and set aside.",
+            "In the same skillet, add sliced mushrooms and cook until they release their moisture and become tender.",
+            "Pour in Marsala wine and chicken broth. Simmer for a few minutes to reduce the sauce slightly.",
+            "Return the cooked chicken breasts to the skillet and simmer in the sauce for an additional 5 minutes, allowing the flavors to meld.",
+            "Stir in unsalted butter and chopped fresh parsley.",
+            "Serve chicken Marsala hot with the delicious Marsala wine sauce."
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Tuscan Ribollita Soup",
+        "cuisine": "Italian",
+        "chef": "Antonio Bianchi",
+        "chef_image": "https://st2.depositphotos.com/1518767/10328/i/450/depositphotos_103283818-stock-photo-happy-head-chef-presenting-his.jpg",
+        "description": "A hearty Tuscan bread soup with vegetables and cannellini beans, perfect for a comforting meal.",
+        "image": "https://images.unsplash.com/photo-1478749485505-2a903a729c63",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "2 cloves garlic, minced",
+            "1 can (15 oz) cannellini beans, drained and rinsed",
+            "1 can (14 oz) diced tomatoes",
+            "6 cups vegetable broth",
+            "2 cups stale bread, torn into pieces",
+            "1 bunch kale, chopped",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese for garnish"
+        ],
+        "instructions": [
+            "In a large pot, heat olive oil over medium heat. Add chopped onion, carrots, and celery. Sauté until the vegetables start to soften, about 5 minutes.",
+            "Add minced garlic and sauté for another 1-2 minutes until fragrant.",
+            "Stir in cannellini beans, diced tomatoes, and vegetable broth. Season with salt and pepper. Simmer for 20-25 minutes.",
+            "Add stale bread pieces and chopped kale to the soup. Simmer for an additional 10-15 minutes until the bread is soft and the kale is tender.",
+            "Serve Tuscan ribollita soup hot, garnished with grated Parmesan cheese."
         ]
     }
 ]
