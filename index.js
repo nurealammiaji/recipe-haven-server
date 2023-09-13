@@ -1,8 +1,11 @@
 const express = require("express");
 const recipes = require("./data/recipes.json");
 const chefs = require("./data/chefs.json");
+const cors = require("cors");
 const app = express();
 const port = 5000;
+
+app.use(cors());
 
 app.get("/", (req, res) => {
     res.send("Recipe Haven Server");
