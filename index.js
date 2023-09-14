@@ -1,10 +1,11 @@
 const express = require("express");
-const recipes = require("./data/recipes.json");
-const chefs = require("./data/chefs.json");
-const blog = require("./data/blog.json");
 const cors = require("cors");
 const app = express();
 const port = 5000;
+
+const recipes = require("./data/recipes.json");
+const chefs = require("./data/chefs.json");
+const blog = require("./data/blog.json");
 
 app.use(cors());
 
@@ -37,8 +38,8 @@ app.get("/chefs", (req, res) => {
 })
 
 app.get("/chefs/:name", (req, res) => {
-    const name = parseInt(req.params.id);
-    const specificChef = chefs.find(chef => parseInt(chef.name) === name);
+    const name = req.params.name;
+    const specificChef = chefs.find(chef => chef.name === name);
     res.send(specificChef);
 })
 
