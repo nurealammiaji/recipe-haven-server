@@ -27,19 +27,19 @@ app.get("/recipes/:id", (req, res) => {
     res.send(specificRecipe);
 })
 
-app.get("/recipes/chefs/:chef", (req, res) => {
-    const chef = req.params.chef;
-    const specificChef = recipes.filter(recipe => recipe.chef === chef);
-    res.send(specificChef);
+app.get("/recipes/chefs/:id", (req, res) => {
+    const id = req.params.id;
+    const specificChefRecepies = recipes.filter(recipe => recipe.chef_id === id);
+    res.send(specificChefRecepies);
 })
 
 app.get("/chefs", (req, res) => {
     res.send(chefs);
 })
 
-app.get("/chefs/:name", (req, res) => {
-    const name = req.params.name;
-    const specificChef = chefs.find(chef => chef.name === name);
+app.get("/chefs/:id", (req, res) => {
+    const id = req.params.id;
+    const specificChef = chefs.find(chef => chef.id === id);
     res.send(specificChef);
 })
 

@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "MR1",
         "name": "Mario Rossi",
         "image": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=0&k=20&c=XDfN4eo_AWH_LM7KLNL8jHCQY9wjkVwRBFMNo-z_4C8=",
         "bio": "Chef Mario Rossi is an Italian cuisine maestro, known for his mastery of pasta and classic Italian dishes.",
@@ -10,7 +10,7 @@
         "recipes": 100
     },
     {
-        "id": 2,
+        "id": "MA2",
         "name": "Marco Alessandro",
         "image": "https://st3.depositphotos.com/1003697/19512/i/450/depositphotos_195122672-stock-photo-portrait-young-chef-standing-commercial.jpg",
         "bio": "Chef Marco Alessandro has a passion for creating delectable Italian desserts and pastries that transport you to Italy with every bite.",
@@ -20,7 +20,7 @@
         "recipes": 75
     },
     {
-        "id": 3,
+        "id": "MH3",
         "name": "Maria Hernandez",
         "image": "https://media.istockphoto.com/id/486860378/photo/my-chefs-know-how-to-cook.jpg?s=612x612&w=0&k=20&c=F7e0Nr5Xr56VJS1NFffBFu_zkcW2ifsw6EHxvKPGh38=",
         "bio": "Chef Maria Hernandez brings the flavors of Italy to life in every dish, with a focus on traditional Italian recipes passed down through generations.",
@@ -30,7 +30,7 @@
         "recipes": 120
     },
     {
-        "id": 4,
+        "id": "AG4",
         "name": "Anna Giulia",
         "image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
         "bio": "Chef Anna Giulia dedication to Italian cuisine shines through in her dishes, combining fresh ingredients and regional flavors.",
@@ -40,7 +40,7 @@
         "recipes": 90
     },
     {
-        "id": 5,
+        "id": "GM5",
         "name": "Giuseppe Martino",
         "image": "https://st4.depositphotos.com/15601592/31237/i/450/depositphotos_312371902-stock-photo-waist-portrait-handsome-chef-smiling.jpg",
         "bio": "Chef Giuseppe Martino is an expert in Northern Italian cuisine, celebrated for his risotto and rich, flavorful sauces.",
@@ -50,7 +50,7 @@
         "recipes": 50
     },
     {
-        "id": 6,
+        "id": "AB6",
         "name": "Antonio Bianchi",
         "image": "https://st2.depositphotos.com/1518767/10328/i/450/depositphotos_103283818-stock-photo-happy-head-chef-presenting-his.jpg",
         "bio": "Chef Antonio Bianchi love for Italian cuisine extends to the Mediterranean coast, where he excels in seafood dishes and coastal flavors.",
