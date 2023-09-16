@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Controlled",
+        "details": "controlled components refer to components that have their state and behavior controlled by the parent component. These components rely on props passed down from the parent component to update their state and behavior."
+    },
+    {
+        "id": 2,
+        "title": "Uncontrolled",
+        "details": "Uncontrolled components refer to components that manage their own state internally."
+    },
+    {
+        "id": 3,
+        "title": "validate React props using PropTypes",
+        "details": "Properties validation is a useful way to force the correct usage of the components. This will help during development to avoid future bugs and problems, once the app becomes larger. It also makes the code more readable, since we can see how each component should be used. PropTypes is used for props validation. If some of the props aren't using the correct type that we assigned, we will get a console warning."
+    },
+    {
+        "id": 4,
+        "title": "Node Js",
+        "details": "Node.js is an open-source and cross-platform runtime environment for executing JavaScript code outside of a browser."
+    },
+    {
+        "id": 5,
+        "title": "Express Js",
+        "details": "Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing."
+    },
+    {
+        "id": 6,
+        "title": "Custom Hook",
+        "details": "A custom Hook is a JavaScript function whose name starts with ”use” and that may call other Hooks. That’s it! If you have code in a component that you feel would make sense to extract, either for reuse elsewhere or to keep the component simpler, you can pull that out into a function."
+    }
+]
